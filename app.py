@@ -23,7 +23,7 @@ def main() :
     #on va intégrer du code html dans streamlit pour avoir un meilleur visuel
     html_temp = """
     <div style="background-color: tomato; padding:10px; border-radius:10px">
-    <h1 style="color: white; text-align:center">Trop bien ça marche !</h1>
+    <h1 style="color: white; text-align:center"> Je m'appelle Lionel !</h1>
     </div>
     <p style="font-size: 20px; font-weight: bold; text-align:center">c'est super bien !</p>
     """
